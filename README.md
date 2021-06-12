@@ -30,9 +30,9 @@ MPYNNPIDLOWWGKU
 ZSPOKCMAJGQEQGM  
 QBLMOPERSNCHTPD  
 KEBANANABAPCPAQ  
-MAQSHEZAPMTATOD  
+MAQSHEZAPMTATOD   
  
-and then the command prompt will ask the user to enter a name of a fruit in uppercase.
+the command prompt will ask the user to enter a name of a fruit in uppercase.
 If the user enters a correct one, then the user will win 1 point, and the letters
 will be replaced with '*'. 
 
