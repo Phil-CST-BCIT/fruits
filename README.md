@@ -1,15 +1,15 @@
 # Fruits
 
 
-**About the project**
+**About the project**  
 The project is a terminal word guessing game that is built with Haskell.
 The game consists of 11 * 15 letters in a rectangular grid.
 The goal of the game is to find out the names of ten fruits
 
-**Prerequisites**
+**Prerequisites**  
 In order to run the game on a computer, players need to install the latest Haskell tool chain stack.
 
-**How to run the game**
+**How to run the game**  
 
 1. open a terminal window
 2. change your working directory to the root of the project 
