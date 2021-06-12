@@ -20,17 +20,17 @@ In order to run the game on a computer, players need to install the latest Haske
 
 On start, the program will create a grid like blow
 
- ZAEYYRMGLWCRZRK
- XJCPAFIXPOPZAVJ
- RRHPAJVMMNECCEE
- JPENRRYINBAVBOP
- MRRUFWGBDGCFOTP
- PERCRHLLWJHCOGL
- MPYNNPIDLOWWGKU
- ZSPOKCMAJGQEQGM
- QBLMOPERSNCHTPD
- KEBANANABAPCPAQ
- MAQSHEZAPMTATOD
+ZAEYYRMGLWCRZRK  
+XJCPAFIXPOPZAVJ  
+RRHPAJVMMNECCEE  
+JPENRRYINBAVBOP  
+MRRUFWGBDGCFOTP  
+PERCRHLLWJHCOGL  
+MPYNNPIDLOWWGKU  
+ZSPOKCMAJGQEQGM  
+QBLMOPERSNCHTPD  
+KEBANANABAPCPAQ  
+MAQSHEZAPMTATOD  
  
 and then the command prompt will ask the user to enter a name of a fruit in uppercase.
 If the user enters a correct one, then the user will win 1 point, and the letters
